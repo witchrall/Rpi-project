@@ -48,3 +48,4 @@ plt.xticks([]), plt.yticks([])
 plt.subplot(144),plt.imshow(edge, cmap = 'gray'),plt.title('Edges')
 plt.xticks([]), plt.yticks([])
 plt.show()
+#Test
